@@ -1,0 +1,18 @@
+Crear_Gato: Garfield
+Dar_de_Comer: Garfield, 50
+Jugar: Garfield, 10
+Resumen_Mascota: Garfield
+Resumen_Global
+
+Crear_Gato: Whiskers
+Dar_de_Comer: Whiskers, 70
+Jugar: Whiskers, 20
+Resumen_Mascota: Whiskers
+Resumen_Global
+
+Crear_Gato: Felix
+Dar_de_Comer: Felix, 30
+Jugar: Felix, 15
+Resumen_Mascota: Felix
+Resumen_Global
+
