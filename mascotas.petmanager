@@ -1,5 +1,5 @@
 Crear_Gato: Garfield
-Dar_de_Comer: Garfield, 50
+Dar_de_Comer: Garfield, 12
 Jugar: Garfield, 10
 Resumen_Mascota: Garfield
 Resumen_Global
@@ -12,7 +12,6 @@ Resumen_Global
 
 Crear_Gato: Felix
 Dar_de_Comer: Felix, 30
-Jugar: Felix, 15
+Jugar: Felix, 11000
 Resumen_Mascota: Felix
 Resumen_Global
-

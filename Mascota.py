@@ -29,20 +29,22 @@ def cargar_mascotas_desde_archivo(nombre_archivo):
                 gatos.append(nuevo_gato)
                 imprimir_mensajes_acciones(nuevo_gato, "Crear_Gato", nuevo_gato.energia, nuevo_gato.energia, "mascotas.petworld_result")
             elif comando == "Dar_de_Comer":
-                nombre_gato, energia = parametros.split(',')
+                nombre_gato, peso_ratón = parametros.split(',')
                 for gato in gatos:
                     if gato.nombre == nombre_gato:
                         energia_antes = gato.energia
-                        gato.energia += int(energia)
+                        gato.energia += 12 + int(peso_ratón)
                         imprimir_mensajes_acciones(gato, "Dar_de_Comer", energia_antes, gato.energia, "mascotas.petworld_result")
             elif comando == "Jugar":
                 nombre_gato, tiempo = parametros.split(',')
                 for gato in gatos:
                     if gato.nombre == nombre_gato:
                         energia_antes = gato.energia
-                        gato.energia -= int(tiempo)
+                        gato.energia -= int(tiempo) // 2  # Corregido aquí
                         imprimir_mensajes_acciones(gato, "Jugar", energia_antes, gato.energia, "mascotas.petworld_result")
     return gatos
+
+
 
 def imprimir_mensajes_acciones(gato, accion, energia_antes, energia_despues, output_file=None):
     now = datetime.datetime.now()
@@ -88,5 +90,27 @@ def imprimir_mensajes_acciones(gato, accion, energia_antes, energia_despues, out
             print(f"{gato.nombre}, {gato.energia}, {gato.tipo}, {gato.estado}")
             print("*" * 50)  # Separador solo después de jugar
 
- 
-cargar_mascotas_desde_archivo("mascotas.petmanager")
+# Función para el menú principal
+def menu_principal():
+    print("BIENVENIDO AL PET MANAGER")
+    print("Presiona Enter para continuar...")
+    input()
+    menu_opciones()
+
+# Función para el menú de opciones
+def menu_opciones():
+    while True:
+        print("\n--- MENÚ ---")
+        print("1. Módulo PetManager")
+        print("2. Salir")
+        opcion = input("Elige una opción: ")
+        if opcion == "1":
+            cargar_mascotas_desde_archivo("mascotas.petmanager")
+        elif opcion == "2":
+            print("Saliendo del programa...")
+            break
+        else:
+            print("Opción inválida. Por favor, elige una opción válida.")
+
+# Llamar al menú principal al iniciar el programa
+menu_principal()

@@ -1,0 +1,400 @@
+**************************************************
+[2024-02-24 21:26:17.354178] Se creó el gato Garfield
+[2024-02-24 21:26:17.354178] le diste de comer a Garfield, su energia: Antes: 1, Ahora: 51
+[2024-02-24 21:26:17.355179] Jugaste con Garfield, su energia: Antes: 51, Ahora: 41
+
+--------------Resumen Global--------------------------
+Garfield, 41, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:17.356184] Se creó el gato Whiskers
+[2024-02-24 21:26:17.357178] le diste de comer a Whiskers, su energia: Antes: 1, Ahora: 71
+[2024-02-24 21:26:17.358178] Jugaste con Whiskers, su energia: Antes: 71, Ahora: 51
+
+--------------Resumen Global--------------------------
+Whiskers, 51, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:17.358178] Se creó el gato Felix
+[2024-02-24 21:26:17.359176] le diste de comer a Felix, su energia: Antes: 1, Ahora: 31
+[2024-02-24 21:26:17.359176] Jugaste con Felix, su energia: Antes: 31, Ahora: 16
+
+--------------Resumen Global--------------------------
+Felix, 16, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:17.361177] Se creó el gato Luna
+[2024-02-24 21:26:17.361177] le diste de comer a Luna, su energia: Antes: 1, Ahora: 91
+[2024-02-24 21:26:17.362177] Jugaste con Luna, su energia: Antes: 91, Ahora: 86
+
+--------------Resumen Global--------------------------
+Luna, 86, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:17.363179] Se creó el gato Simba
+[2024-02-24 21:26:17.363179] le diste de comer a Simba, su energia: Antes: 1, Ahora: 41
+[2024-02-24 21:26:17.364179] Jugaste con Simba, su energia: Antes: 41, Ahora: 16
+
+--------------Resumen Global--------------------------
+Simba, 16, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:17.365178] Se creó el gato Tiger
+[2024-02-24 21:26:17.366180] le diste de comer a Tiger, su energia: Antes: 1, Ahora: 61
+[2024-02-24 21:26:17.366180] Jugaste con Tiger, su energia: Antes: 61, Ahora: 43
+
+--------------Resumen Global--------------------------
+Tiger, 43, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:17.367178] Se creó el gato Mittens
+[2024-02-24 21:26:17.367178] le diste de comer a Mittens, su energia: Antes: 1, Ahora: 81
+[2024-02-24 21:26:17.368177] Jugaste con Mittens, su energia: Antes: 81, Ahora: 69
+
+--------------Resumen Global--------------------------
+Mittens, 69, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:17.369178] Se creó el gato Chloe
+[2024-02-24 21:26:17.369178] le diste de comer a Chloe, su energia: Antes: 1, Ahora: 56
+[2024-02-24 21:26:17.370178] Jugaste con Chloe, su energia: Antes: 56, Ahora: 48
+
+--------------Resumen Global--------------------------
+Chloe, 48, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:17.371177] Se creó el gato Oliver
+[2024-02-24 21:26:17.372178] le diste de comer a Oliver, su energia: Antes: 1, Ahora: 71
+[2024-02-24 21:26:17.372178] Jugaste con Oliver, su energia: Antes: 71, Ahora: 61
+
+--------------Resumen Global--------------------------
+Oliver, 61, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:17.373178] Se creó el gato Lucy
+[2024-02-24 21:26:17.374179] le diste de comer a Lucy, su energia: Antes: 1, Ahora: 36
+[2024-02-24 21:26:17.374179] Jugaste con Lucy, su energia: Antes: 36, Ahora: 21
+
+--------------Resumen Global--------------------------
+Lucy, 21, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:17.375177] Se creó el gato Max
+[2024-02-24 21:26:17.376180] le diste de comer a Max, su energia: Antes: 1, Ahora: 66
+[2024-02-24 21:26:17.376180] Jugaste con Max, su energia: Antes: 66, Ahora: 44
+
+--------------Resumen Global--------------------------
+Max, 44, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:17.378178] Se creó el gato Bella
+[2024-02-24 21:26:17.378178] le diste de comer a Bella, su energia: Antes: 1, Ahora: 46
+[2024-02-24 21:26:17.378178] Jugaste con Bella, su energia: Antes: 46, Ahora: 26
+
+--------------Resumen Global--------------------------
+Bella, 26, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:17.379179] Se creó el gato Charlie
+[2024-02-24 21:26:17.380179] le diste de comer a Charlie, su energia: Antes: 1, Ahora: 86
+[2024-02-24 21:26:17.380179] Jugaste con Charlie, su energia: Antes: 86, Ahora: 81
+
+--------------Resumen Global--------------------------
+Charlie, 81, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:17.381179] Se creó el gato Milo
+[2024-02-24 21:26:17.382178] le diste de comer a Milo, su energia: Antes: 1, Ahora: 26
+[2024-02-24 21:26:17.382178] Jugaste con Milo, su energia: Antes: 26, Ahora: -4
+[2024-02-24 21:26:17.382178] El gato Milo ha muerto debido a la falta de energía.
+[2024-02-24 21:26:17.382178] Chales ya me morí
+
+--------------Resumen Global--------------------------
+Milo, -4, gato, muerto
+**************************************************
+**************************************************
+[2024-02-24 21:26:17.383178] Se creó el gato Shadow
+[2024-02-24 21:26:17.384179] le diste de comer a Shadow, su energia: Antes: 1, Ahora: 76
+[2024-02-24 21:26:17.384179] Jugaste con Shadow, su energia: Antes: 76, Ahora: 61
+
+--------------Resumen Global--------------------------
+Shadow, 61, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:17.385181] Se creó el gato Smokey
+[2024-02-24 21:26:17.385181] le diste de comer a Smokey, su energia: Antes: 1, Ahora: 41
+[2024-02-24 21:26:17.386177] Jugaste con Smokey, su energia: Antes: 41, Ahora: 16
+
+--------------Resumen Global--------------------------
+Smokey, 16, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:17.386177] Se creó el gato Leo
+[2024-02-24 21:26:17.387178] le diste de comer a Leo, su energia: Antes: 1, Ahora: 61
+[2024-02-24 21:26:17.387178] Jugaste con Leo, su energia: Antes: 61, Ahora: 49
+
+--------------Resumen Global--------------------------
+Leo, 49, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:17.388177] Se creó el gato Molly
+[2024-02-24 21:26:17.389179] le diste de comer a Molly, su energia: Antes: 1, Ahora: 51
+[2024-02-24 21:26:17.390179] Jugaste con Molly, su energia: Antes: 51, Ahora: 33
+
+--------------Resumen Global--------------------------
+Molly, 33, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:17.391178] Se creó el gato Oreo
+[2024-02-24 21:26:17.391178] le diste de comer a Oreo, su energia: Antes: 1, Ahora: 71
+[2024-02-24 21:26:17.392179] Jugaste con Oreo, su energia: Antes: 71, Ahora: 61
+
+--------------Resumen Global--------------------------
+Oreo, 61, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:17.393179] Se creó el gato Rocky
+[2024-02-24 21:26:17.393179] le diste de comer a Rocky, su energia: Antes: 1, Ahora: 46
+[2024-02-24 21:26:17.394180] Jugaste con Rocky, su energia: Antes: 46, Ahora: 26
+
+--------------Resumen Global--------------------------
+Rocky, 26, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:33.765411] Se creó el gato Garfield
+[2024-02-24 21:26:33.766414] le diste de comer a Garfield, su energia: Antes: 1, Ahora: 51
+[2024-02-24 21:26:33.767415] Jugaste con Garfield, su energia: Antes: 51, Ahora: 41
+
+--------------Resumen Global--------------------------
+Garfield, 41, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:33.767415] Se creó el gato Whiskers
+[2024-02-24 21:26:33.768412] le diste de comer a Whiskers, su energia: Antes: 1, Ahora: 71
+[2024-02-24 21:26:33.768412] Jugaste con Whiskers, su energia: Antes: 71, Ahora: 51
+
+--------------Resumen Global--------------------------
+Whiskers, 51, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:33.769411] Se creó el gato Felix
+[2024-02-24 21:26:33.769411] le diste de comer a Felix, su energia: Antes: 1, Ahora: 31
+[2024-02-24 21:26:33.770413] Jugaste con Felix, su energia: Antes: 31, Ahora: 16
+
+--------------Resumen Global--------------------------
+Felix, 16, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:33.770413] Se creó el gato Luna
+[2024-02-24 21:26:33.771414] le diste de comer a Luna, su energia: Antes: 1, Ahora: 91
+[2024-02-24 21:26:33.771414] Jugaste con Luna, su energia: Antes: 91, Ahora: 86
+
+--------------Resumen Global--------------------------
+Luna, 86, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:33.772412] Se creó el gato Simba
+[2024-02-24 21:26:33.772412] le diste de comer a Simba, su energia: Antes: 1, Ahora: 41
+[2024-02-24 21:26:33.773413] Jugaste con Simba, su energia: Antes: 41, Ahora: 16
+
+--------------Resumen Global--------------------------
+Simba, 16, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:33.774412] Se creó el gato Tiger
+[2024-02-24 21:26:33.774412] le diste de comer a Tiger, su energia: Antes: 1, Ahora: 61
+[2024-02-24 21:26:33.775412] Jugaste con Tiger, su energia: Antes: 61, Ahora: 43
+
+--------------Resumen Global--------------------------
+Tiger, 43, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:33.775412] Se creó el gato Mittens
+[2024-02-24 21:26:33.776413] le diste de comer a Mittens, su energia: Antes: 1, Ahora: 81
+[2024-02-24 21:26:33.776413] Jugaste con Mittens, su energia: Antes: 81, Ahora: 69
+
+--------------Resumen Global--------------------------
+Mittens, 69, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:33.777411] Se creó el gato Chloe
+[2024-02-24 21:26:33.777411] le diste de comer a Chloe, su energia: Antes: 1, Ahora: 56
+[2024-02-24 21:26:33.778411] Jugaste con Chloe, su energia: Antes: 56, Ahora: 48
+
+--------------Resumen Global--------------------------
+Chloe, 48, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:33.778411] Se creó el gato Oliver
+[2024-02-24 21:26:33.779411] le diste de comer a Oliver, su energia: Antes: 1, Ahora: 71
+[2024-02-24 21:26:33.780411] Jugaste con Oliver, su energia: Antes: 71, Ahora: 61
+
+--------------Resumen Global--------------------------
+Oliver, 61, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:33.781411] Se creó el gato Lucy
+[2024-02-24 21:26:33.781411] le diste de comer a Lucy, su energia: Antes: 1, Ahora: 36
+[2024-02-24 21:26:33.781411] Jugaste con Lucy, su energia: Antes: 36, Ahora: 21
+
+--------------Resumen Global--------------------------
+Lucy, 21, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:33.782413] Se creó el gato Max
+[2024-02-24 21:26:33.783411] le diste de comer a Max, su energia: Antes: 1, Ahora: 66
+[2024-02-24 21:26:33.783411] Jugaste con Max, su energia: Antes: 66, Ahora: 44
+
+--------------Resumen Global--------------------------
+Max, 44, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:33.784411] Se creó el gato Bella
+[2024-02-24 21:26:33.784411] le diste de comer a Bella, su energia: Antes: 1, Ahora: 46
+[2024-02-24 21:26:33.784411] Jugaste con Bella, su energia: Antes: 46, Ahora: 26
+
+--------------Resumen Global--------------------------
+Bella, 26, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:33.785411] Se creó el gato Charlie
+[2024-02-24 21:26:33.786412] le diste de comer a Charlie, su energia: Antes: 1, Ahora: 86
+[2024-02-24 21:26:33.786412] Jugaste con Charlie, su energia: Antes: 86, Ahora: 81
+
+--------------Resumen Global--------------------------
+Charlie, 81, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:33.787411] Se creó el gato Milo
+[2024-02-24 21:26:33.787411] le diste de comer a Milo, su energia: Antes: 1, Ahora: 26
+[2024-02-24 21:26:33.788412] Jugaste con Milo, su energia: Antes: 26, Ahora: -4
+[2024-02-24 21:26:33.788412] El gato Milo ha muerto debido a la falta de energía.
+[2024-02-24 21:26:33.788412] Chales ya me morí
+
+--------------Resumen Global--------------------------
+Milo, -4, gato, muerto
+**************************************************
+**************************************************
+[2024-02-24 21:26:33.788412] Se creó el gato Shadow
+[2024-02-24 21:26:33.789412] le diste de comer a Shadow, su energia: Antes: 1, Ahora: 76
+[2024-02-24 21:26:33.789412] Jugaste con Shadow, su energia: Antes: 76, Ahora: 61
+
+--------------Resumen Global--------------------------
+Shadow, 61, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:33.790413] Se creó el gato Smokey
+[2024-02-24 21:26:33.791414] le diste de comer a Smokey, su energia: Antes: 1, Ahora: 41
+[2024-02-24 21:26:33.791414] Jugaste con Smokey, su energia: Antes: 41, Ahora: 16
+
+--------------Resumen Global--------------------------
+Smokey, 16, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:33.792414] Se creó el gato Leo
+[2024-02-24 21:26:33.793412] le diste de comer a Leo, su energia: Antes: 1, Ahora: 61
+[2024-02-24 21:26:33.793412] Jugaste con Leo, su energia: Antes: 61, Ahora: 49
+
+--------------Resumen Global--------------------------
+Leo, 49, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:33.794411] Se creó el gato Molly
+[2024-02-24 21:26:33.794411] le diste de comer a Molly, su energia: Antes: 1, Ahora: 51
+[2024-02-24 21:26:33.795412] Jugaste con Molly, su energia: Antes: 51, Ahora: 33
+
+--------------Resumen Global--------------------------
+Molly, 33, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:33.795412] Se creó el gato Oreo
+[2024-02-24 21:26:33.796412] le diste de comer a Oreo, su energia: Antes: 1, Ahora: 71
+[2024-02-24 21:26:33.796412] Jugaste con Oreo, su energia: Antes: 71, Ahora: 61
+
+--------------Resumen Global--------------------------
+Oreo, 61, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:26:33.797412] Se creó el gato Rocky
+[2024-02-24 21:26:33.798411] le diste de comer a Rocky, su energia: Antes: 1, Ahora: 46
+[2024-02-24 21:26:33.798411] Jugaste con Rocky, su energia: Antes: 46, Ahora: 26
+
+--------------Resumen Global--------------------------
+Rocky, 26, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:32:55.482006] Se creó el gato Garfield
+**************************************************
+[2024-02-24 21:35:13.688850] Se creó el gato Garfield
+[2024-02-24 21:35:13.688850] le diste de comer a Garfield, su energia: Antes: 1, Ahora: 14
+[2024-02-24 21:35:13.689848] Jugaste con Garfield, su energia: Antes: 14, Ahora: 7
+
+--------------Resumen Global--------------------------
+Garfield, 7, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:35:13.690850] Se creó el gato Whiskers
+[2024-02-24 21:35:13.690850] le diste de comer a Whiskers, su energia: Antes: 1, Ahora: 83
+[2024-02-24 21:35:13.690850] Jugaste con Whiskers, su energia: Antes: 83, Ahora: 42
+
+--------------Resumen Global--------------------------
+Whiskers, 42, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:35:13.691848] Se creó el gato Felix
+[2024-02-24 21:35:13.691848] le diste de comer a Felix, su energia: Antes: 1, Ahora: 43
+[2024-02-24 21:35:13.692848] Jugaste con Felix, su energia: Antes: 43, Ahora: 22
+
+--------------Resumen Global--------------------------
+Felix, 22, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:37:20.329241] Se creó el gato Garfield
+[2024-02-24 21:37:20.329241] le diste de comer a Garfield, su energia: Antes: 1, Ahora: 25
+[2024-02-24 21:37:20.330236] Jugaste con Garfield, su energia: Antes: 25, Ahora: 20
+
+--------------Resumen Global--------------------------
+Garfield, 20, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:37:20.331240] Se creó el gato Whiskers
+[2024-02-24 21:37:20.331240] le diste de comer a Whiskers, su energia: Antes: 1, Ahora: 83
+[2024-02-24 21:37:20.331240] Jugaste con Whiskers, su energia: Antes: 83, Ahora: 73
+
+--------------Resumen Global--------------------------
+Whiskers, 73, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:37:20.332238] Se creó el gato Felix
+[2024-02-24 21:37:20.333238] le diste de comer a Felix, su energia: Antes: 1, Ahora: 43
+[2024-02-24 21:37:20.333238] Jugaste con Felix, su energia: Antes: 43, Ahora: 36
+
+--------------Resumen Global--------------------------
+Felix, 36, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:38:29.552819] Se creó el gato Garfield
+[2024-02-24 21:38:29.552819] le diste de comer a Garfield, su energia: Antes: 1, Ahora: 25
+[2024-02-24 21:38:29.553820] Jugaste con Garfield, su energia: Antes: 25, Ahora: 20
+
+--------------Resumen Global--------------------------
+Garfield, 20, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:38:29.554821] Se creó el gato Whiskers
+[2024-02-24 21:38:29.554821] le diste de comer a Whiskers, su energia: Antes: 1, Ahora: 83
+[2024-02-24 21:38:29.555822] Jugaste con Whiskers, su energia: Antes: 83, Ahora: 73
+
+--------------Resumen Global--------------------------
+Whiskers, 73, gato, vivo
+**************************************************
+**************************************************
+[2024-02-24 21:38:29.555822] Se creó el gato Felix
+[2024-02-24 21:38:29.556821] le diste de comer a Felix, su energia: Antes: 1, Ahora: 43
+[2024-02-24 21:38:29.556821] Jugaste con Felix, su energia: Antes: 43, Ahora: -5457
+[2024-02-24 21:38:29.556821] El gato Felix ha muerto debido a la falta de energía.
+[2024-02-24 21:38:29.556821] Chales ya me morí
+
+--------------Resumen Global--------------------------
+Felix, -5457, gato, muerto
+**************************************************
