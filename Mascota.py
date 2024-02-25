@@ -1,4 +1,5 @@
 import datetime
+from graphviz import Digraph  # Importar la clase Digraph desde la librería Graphviz
 
 class Mascota:
     def __init__(self, id, nombre, energia=1, tipo="gato", estado="vivo"):
@@ -11,6 +12,14 @@ class Mascota:
     def __str__(self):
         return f"ID: {self.id}, Nombre: {self.nombre}, Energía: {self.energia}, Tipo: {self.tipo}, Estado: {self.estado}"
 
+class MascotaFinal:
+    def __init__(self, nombre, energia_final, tipo, estado):
+        self.nombre = nombre
+        self.energia_final = energia_final
+        self.tipo = tipo
+        self.estado = estado
+
+# Función para cargar mascotas desde un archivo
 def cargar_mascotas_desde_archivo(nombre_archivo):
     gatos = []
     with open(nombre_archivo, 'r', encoding='cp1252') as file:
@@ -44,11 +53,19 @@ def cargar_mascotas_desde_archivo(nombre_archivo):
                         imprimir_mensajes_acciones(gato, "Jugar", energia_antes, gato.energia, "mascotas.petworld_result")
     return gatos
 
+# Función para generar el gráfico PNG
+def generar_grafico(mascotas_finales):
+    dot = Digraph(comment='Mascotas')
 
+    for mascota in mascotas_finales:
+        dot.node(f'{mascota.nombre}', f'Nombre: {mascota.nombre}\nEnergía Final: {mascota.energia_final}\nTipo: {mascota.tipo}\nEstado: {mascota.estado}')
 
+    dot.render('mascotas', format='png', cleanup=True)
+
+# Función para imprimir mensajes de acciones
 def imprimir_mensajes_acciones(gato, accion, energia_antes, energia_despues, output_file=None):
     now = datetime.datetime.now()
-    
+
     if output_file:
         with open(output_file, 'a', encoding='utf-8') as file:
             if accion == "Crear_Gato":
@@ -105,7 +122,14 @@ def menu_opciones():
         print("2. Salir")
         opcion = input("Elige una opción: ")
         if opcion == "1":
-            cargar_mascotas_desde_archivo("mascotas.petmanager")
+            gatos = cargar_mascotas_desde_archivo("mascotas.petmanager")
+            # Crear la lista de mascotas finales para generar el gráfico
+            mascotas_finales = []
+            for gato in gatos:
+                mascota_final = MascotaFinal(gato.nombre, gato.energia, gato.tipo, gato.estado)
+                mascotas_finales.append(mascota_final)
+            # Generar el gráfico PNG
+            generar_grafico(mascotas_finales)
         elif opcion == "2":
             print("Saliendo del programa...")
             break
