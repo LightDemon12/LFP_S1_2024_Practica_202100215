@@ -1,64 +1,282 @@
-Crear_Gato: Garfield
-Crear_Gato: Whiskers
+Crear_Gato: Princess
+Crear_Gato: Tiger
+Crear_Gato: Sassy
+Crear_Gato: Shadow
+Crear_Gato: Max
 Crear_Gato: Felix
+Crear_Gato: Gizmo
+Crear_Gato: Lucky
+Crear_Gato: Chloe
 Crear_Gato: Mittens
 Crear_Gato: Luna
-Crear_Gato: Tiger
-Crear_Gato: Max
+Crear_Gato: Whiskers
 Crear_Gato: Bella
 Crear_Gato: Oliver
 Crear_Gato: Simba
-Resumen_Mascota: Whiskers
-Resumen_Mascota: Felix
-Resumen_Mascota: Mittens
-Resumen_Mascota: Luna
-Resumen_Mascota: Tiger
-Resumen_Mascota: Max
-Dar_de_Comer: Garfield, 300000
-Jugar: Whiskers, 500
-Jugar: Felix, 200
-Dar_de_Comer: Mittens, 30
+Crear_Gato: Oreo
+Crear_Gato: Coco
+Crear_Gato: Oscar
+Crear_Gato: Charlie
+Crear_Gato: Nala
+Crear_Gato: Lily
+Crear_Gato: Lucy
+Crear_Gato: Leo
+Crear_Gato: Jasper
+Crear_Gato: Boots
+Crear_Gato: Peanut
+Crear_Gato: Sammy
+Crear_Gato: Simon
+Crear_Gato: Sammy
+Crear_Gato: Zoey
+Crear_Gato: Cleo
+Crear_Gato: Sammy
+Crear_Gato: Mimi
+Crear_Gato: Whiskers
+Crear_Gato: Tigger
+Crear_Gato: Socks
+Crear_Gato: Luna
+Crear_Gato: Rocky
+Crear_Gato: Rusty
+Crear_Gato: Tiger
+Crear_Gato: Sebastian
+Crear_Gato: Milo
+Crear_Gato: Callie
+Crear_Gato: Luna
+Crear_Gato: Dusty
+Crear_Gato: Angel
+Crear_Gato: Pepper
+Crear_Gato: Sophie
+Crear_Gato: Charlie
+Crear_Gato: Sammy
+Crear_Gato: Princess
+Crear_Gato: Bella
+Crear_Gato: Whiskers
+Crear_Gato: Oscar
+Crear_Gato: Mittens
+Crear_Gato: Simba
+Crear_Gato: Felix
+Crear_Gato: Max
+Crear_Gato: Luna
+Crear_Gato: Charlie
+Crear_Gato: Lucky
+Crear_Gato: Chloe
+Crear_Gato: Gizmo
+Crear_Gato: Tiger
+Crear_Gato: Oliver
+Crear_Gato: Lucy
+Crear_Gato: Shadow
+Crear_Gato: Nala
+Crear_Gato: Lily
+Crear_Gato: Leo
+Crear_Gato: Oscar
+Crear_Gato: Jasper
+Crear_Gato: Boots
+Crear_Gato: Peanut
+Crear_Gato: Sammy
+Crear_Gato: Simon
+Crear_Gato: Sammy
+Crear_Gato: Zoey
+Crear_Gato: Cleo
+Crear_Gato: Sammy
+Crear_Gato: Mimi
+Crear_Gato: Whiskers
+Crear_Gato: Tigger
+Crear_Gato: Socks
+Crear_Gato: Luna
+Crear_Gato: Rocky
+Crear_Gato: Rusty
+Crear_Gato: Tiger
+Crear_Gato: Sebastian
+Crear_Gato: Milo
+Crear_Gato: Callie
+Crear_Gato: Luna
+Crear_Gato: Dusty
+Crear_Gato: Angel
+Crear_Gato: Pepper
+Crear_Gato: Sophie
+Crear_Gato: Charlie
+Crear_Gato: Sammy
 Dar_de_Comer: Luna, 30
-Jugar: Tiger, 100
-Jugar: Max, 200
-Dar_de_Comer: Bella, 30
-Dar_de_Comer: Oliver, 30
-Jugar: Simba, 500
-
-Jugar: Garfield, 200
-Dar_de_Comer: Whiskers, 30
-Dar_de_Comer: Felix, 30
-Jugar: Mittens, 100
-Jugar: Luna, 200
-Dar_de_Comer: Tiger, 30
-Dar_de_Comer: Max, 30
-Jugar: Bella, 100
-Jugar: Oliver, 200
-Dar_de_Comer: Simba, 30
-Resumen_Mascota: Bella
-Resumen_Mascota: Oliver
-Resumen_Mascota: Simba
-Dar_de_Comer: Garfield, 20
-Jugar: Whiskers, 100
-Jugar: Felix, 200
-Dar_de_Comer: Mittens, 20
-Dar_de_Comer: Luna, 20
 Jugar: Tiger, 200
-Jugar: Max, 100
-Dar_de_Comer: Bella, 20
-Dar_de_Comer: Oliver, 20
-Jugar: Simba, 200
+Resumen_Mascota: Princess
 
-Jugar: Garfield, 1000
-Dar_de_Comer: Whiskers, 20
-Dar_de_Comer: Felix, 20
-Jugar: Mittens, 200
-Jugar: Luna, 1000
+Jugar: Whiskers, 100
+Dar_de_Comer: Oscar, 30
+Jugar: Gizmo, 100
+Resumen_Mascota: Tiger
+
+Dar_de_Comer: Sammy, 30
+Resumen_Mascota: Sassy
+Jugar: Gizmo, 100
+
+Jugar: Princess, 200
+Dar_de_Comer: Tiger, 30
+Resumen_Mascota: Gizmo
+
+Dar_de_Comer: Luna, 20
+Resumen_Mascota: Lucky
+
 Dar_de_Comer: Tiger, 20
-Dar_de_Comer: Max, 20
-Jugar: Bella, 200
-Jugar: Oliver, 1000
-Dar_de_Comer: Simba, 20
+Jugar: Felix, 200
+Resumen_Mascota: Luna
 
-Resumen_Mascota: Garfield
+Dar_de_Comer: Gizmo, 30
+Jugar: Lucky, 200
+Resumen_Mascota: Tiger
+
+Jugar: Gizmo, 100
+Dar_de_Comer: Luna, 20
+Resumen_Mascota: Lucky
+
+Jugar: Princess, 100
+Dar_de_Comer: Gizmo, 20
+Resumen_Mascota: Tiger
+
+Jugar: Lucky, 200
+Dar_de_Comer: Luna, 30
+Resumen_Mascota: Gizmo
+
+Jugar: Princess, 100
+Dar_de_Comer: Gizmo, 20
+Resumen_Mascota: Tiger
+
+Dar_de_Comer: Lucky, 20
+Resumen_Mascota: Gizmo
+Jugar: Tiger, 200
+
+Dar_de_Comer: Luna, 30
+Resumen_Mascota: Princess
+Jugar: Gizmo, 100
+
+Dar_de_Comer: Lucky, 20
+Resumen_Mascota: Tiger
+Jugar: Gizmo, 200
+
+Jugar: Princess, 200
+Dar_de_Comer: Tiger, 30
+Resumen_Mascota: Gizmo
+
+Dar_de_Comer: Luna, 30
+Resumen_Mascota: Lucky
+Jugar: Tiger, 100
+
+Jugar: Gizmo, 100
+Dar_de_Comer: Luna, 20
+Resumen_Mascota: Princess
+
+Jugar: Lucky, 100
+Dar_de_Comer: Gizmo, 20
+Resumen_Mascota: Tiger
+
+Jugar: Princess, 200
+Dar_de_Comer: Lucky, 30
+
+Dar_de_Comer: Luna, 20
+Resumen_Mascota: Lucky
+Jugar: Tiger, 200
+
+Dar_de_Comer: Gizmo, 30
+Resumen_Mascota: Princess
+Jugar: Lucky, 100
+
+Jugar: Tiger, 100
+Dar_de_Comer: Luna, 20
+Resumen_Mascota: Gizmo
+Resumen_Global
+Jugar: Princess, 100
+Dar_de_Comer: Lucky, 30
+Resumen_Mascota: Tiger
+
+Dar_de_Comer: Luna, 30
+Jugar: Tiger, 200
+Resumen_Mascota: Princess
+
+Jugar: Whiskers, 100
+Dar_de_Comer: Oscar, 30
+Jugar: Gizmo, 100
+Resumen_Mascota: Tiger
+
+Dar_de_Comer: Sammy, 30
+Resumen_Mascota: Sassy
+Jugar: Gizmo, 100
+
+Jugar: Princess, 200
+Dar_de_Comer: Tiger, 30
+Resumen_Mascota: Gizmo
+
+Dar_de_Comer: Luna, 20
+Resumen_Mascota: Lucky
+Jugar: Gizmo, 200
+
+Dar_de_Comer: Tiger, 20
+Jugar: Felix, 200
+Resumen_Mascota: Luna
+
+Dar_de_Comer: Gizmo, 30
+Jugar: Lucky, 200
+Resumen_Mascota: Tiger
+
+Jugar: Gizmo, 100
+Dar_de_Comer: Luna, 20
+Resumen_Mascota: Lucky
+
+Jugar: Princess, 100
+Dar_de_Comer: Gizmo, 20
+Resumen_Mascota: Tiger
+
+Jugar: Lucky, 200
+Dar_de_Comer: Luna, 30
+Resumen_Mascota: Gizmo
+
+Jugar: Princess, 100
+Dar_de_Comer: Gizmo, 20
+Resumen_Mascota: Tiger
+
+Dar_de_Comer: Lucky, 20
+Resumen_Mascota: Gizmo
+Jugar: Tiger, 200
+
+Dar_de_Comer: Luna, 30
+Resumen_Mascota: Princess
+Jugar: Gizmo, 100
+
+Dar_de_Comer: Lucky, 20
+Resumen_Mascota: Tiger
+Jugar: Gizmo, 200
+
+Jugar: Princess, 200
+Dar_de_Comer: Tiger, 30
+Resumen_Mascota: Gizmo
+
+Dar_de_Comer: Luna, 30
+Resumen_Mascota: Lucky
+Jugar: Tiger, 100
+
+Jugar: Gizmo, 100
+Dar_de_Comer: Luna, 20
+Resumen_Mascota: Princess
+
+Jugar: Lucky, 100
+Dar_de_Comer: Gizmo, 20
+Resumen_Mascota: Tiger
+
+Jugar: Princess, 200
+Dar_de_Comer: Lucky, 30
+Resumen_Mascota: Gizmo
+
+Dar_de_Comer: Luna, 20
+Resumen_Mascota: Lucky
+Jugar: Tiger, 200
+
+Dar_de_Comer: Gizmo, 30
+Resumen_Mascota: Princess
+Jugar: Lucky, 100
+
+Jugar: Tiger, 100
+Dar_de_Comer: Luna, 20
+Resumen_Mascota: Gizmo
+
+Jugar: Princess, 100
+Dar_de_Comer: Lucky, 30
+Resumen_Mascota: Tiger
 Resumen_Global

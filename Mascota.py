@@ -12,9 +12,11 @@ class Mascota:
         self.energia = energia
         self.tipo = tipo
         self.estado = estado
-# Método para imprimir la información de la mascota
+
+    # Método para imprimir la información de la mascota
     def __str__(self):
         return f"ID: {self.id}, Nombre: {self.nombre}, Energía: {self.energia}, Tipo: {self.tipo}, Estado: {self.estado}"
+
 # Clase para el resumen final de las mascotas
 class MascotaFinal:
     def __init__(self, nombre, energia_final, tipo, estado):
@@ -22,8 +24,8 @@ class MascotaFinal:
         self.energia_final = energia_final
         self.tipo = tipo
         self.estado = estado
-# Función para cargar mascotas desde un archivo
 
+# Función para cargar mascotas desde un archivo
 def cargar_mascotas_desde_archivo():
     root = tk.Tk()
     root.withdraw() # Ocultar la ventana principal 
@@ -44,6 +46,9 @@ def cargar_mascotas_desde_archivo():
         if len(partes) > 1:
             comando, parametros = partes[0], partes[1]
             instrucciones.append((comando, parametros))
+        else:
+            comando = partes[0]
+            instrucciones.append((comando, None))  # Agregamos None como parámetro si no hay dos partes
     for idx, (comando, parametros) in enumerate(instrucciones, start=1):
         if comando == "Crear_Gato":
             parametros_divididos = parametros.split(',')
@@ -84,31 +89,34 @@ def cargar_mascotas_desde_archivo():
                     print(gato)
         elif comando == "Resumen_Global":
             for gato in gatos:
-                print(gato)
+                imprimir_mensajes_acciones(gato, "Resumen_Mascota", 0, 0, nombre_archivo_result)
+            generar_grafico(gatos)
     return [MascotaFinal(gato.nombre, gato.energia, gato.tipo, gato.estado) for gato in gatos]
 
 
 
 
+
 # Función para generar el gráfico PNG
-def generar_grafico(mascotas_finales):
+def generar_grafico(gatos):
     dot = Digraph(comment='Mascotas')
-    for mascota in mascotas_finales:
+    for gato in gatos:
         # Nodo central con el nombre del gato
-        dot.node(f'{mascota.nombre}', f'Nombre: {mascota.nombre}')
+        dot.node(f'{gato.nombre}', f'Nombre: {gato.nombre}')
         # Nodos para la energía, estado y tipo, apuntando al nodo central
-        dot.node(f'{mascota.nombre}_energia', f'Energía: {mascota.energia_final}')
-        dot.node(f'{mascota.nombre}_estado', f'Estado: {mascota.estado}')
-        dot.node(f'{mascota.nombre}_tipo', f'Tipo: {mascota.tipo}')
-        dot.edge(f'{mascota.nombre}', f'{mascota.nombre}_energia')
-        dot.edge(f'{mascota.nombre}', f'{mascota.nombre}_estado')
-        dot.edge(f'{mascota.nombre}', f'{mascota.nombre}_tipo')
+        dot.node(f'{gato.nombre}_energia', f'Energía: {gato.energia}')
+        dot.node(f'{gato.nombre}_estado', f'Estado: {gato.estado}')
+        dot.node(f'{gato.nombre}_tipo', f'Tipo: {gato.tipo}')
+        dot.edge(f'{gato.nombre}', f'{gato.nombre}_energia')
+        dot.edge(f'{gato.nombre}', f'{gato.nombre}_estado')
+        dot.edge(f'{gato.nombre}', f'{gato.nombre}_tipo')
     # Solicitar al usuario el nombre del archivo sin extensión
     nombre_archivo_png = filedialog.asksaveasfilename(defaultextension="", filetypes=[("PNG files", "*.png")], title="Guardar gráfico PNG")
     if nombre_archivo_png:
         # Corregir la extensión del archivo
         nombre_archivo_png = os.path.splitext(nombre_archivo_png)[0] + ".png"
         dot.render(nombre_archivo_png, format='png', cleanup=True)
+
 # Función para imprimir mensajes de acciones
 def imprimir_mensajes_acciones(gato, accion, energia_antes, energia_despues, output_file=None):
     now = datetime.datetime.now()
@@ -129,12 +137,15 @@ def imprimir_mensajes_acciones(gato, accion, energia_antes, energia_despues, out
             file.write(f"[{now}] El gato {gato.nombre} ha muerto debido a la falta de energía.\n")
             file.write(f"[{now}] {gato.nombre}, Chales ya me morí\n")
             file.write(f"[{now}] {gato.nombre}, {energia_despues}, {gato.tipo}, {gato.estado}\n")
+        elif accion == "Resumen_Mascota":
+            file.write(f"[{now}] Resumen de {gato.nombre}:\n")
+            file.write(f"[{now}] Nombre: {gato.nombre}, Energía: {gato.energia}, Tipo: {gato.tipo}, Estado: {gato.estado}\n")
 
     if accion == "Crear_Gato":
         print(f"[{now}] Se creó el gato {gato.nombre}")
     elif accion == "Dar_de_Comer":
         if gato.estado == "muerto":
-            print( f"[{now}] {gato.nombre}, Muy tarde. Ya me morí.")
+            print(f"[{now}] {gato.nombre}, Muy tarde. Ya me morí.")
         else:
             print(f"[{now}] Le diste de comer a {gato.nombre}, su energía: antes: {energia_antes}, ahora: {energia_despues}")
     elif accion == "Jugar":
@@ -144,15 +155,16 @@ def imprimir_mensajes_acciones(gato, accion, energia_antes, energia_despues, out
         print(f"[{now}] {gato.nombre}, Chales ya me morí")
         print(f"[{now}] {gato.nombre}, {energia_despues}, {gato.tipo}, {gato.estado}")
 
-
-
-
 # Función para el menú principal
 def menu_principal():
     print("BIENVENIDO AL PET MANAGER")
+    print("Datos del Estudiante")
+    print("Nombre: Angel Guillermo de Jesús Pérez Jiménez")
+    print("Número de Carnet: 202100215")
     print("Presiona Enter para continuar...")
     input()
     menu_opciones()
+
 # Función para el menú de opciones
 def menu_opciones():
     while True:
@@ -162,12 +174,11 @@ def menu_opciones():
         opcion = input("Elige una opción: ")
         if opcion == "1":
             mascotas_finales = cargar_mascotas_desde_archivo()
-            if mascotas_finales:
-                generar_grafico(mascotas_finales)
         elif opcion == "2":
             print("Saliendo del programa...")
             break
         else:
             print("Opción inválida. Por favor, elige una opción válida.")
+
 # Llamar al menú principal al iniciar el programa
 menu_principal()

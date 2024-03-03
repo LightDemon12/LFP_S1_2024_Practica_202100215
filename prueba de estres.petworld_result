@@ -1,0 +1,592 @@
+[2024-03-03 17:41:53.422945] Se creó el gato Princess
+[2024-03-03 17:41:53.423945] Se creó el gato Tiger
+[2024-03-03 17:41:53.428946] Se creó el gato Sassy
+[2024-03-03 17:41:53.432949] Se creó el gato Shadow
+[2024-03-03 17:41:53.437948] Se creó el gato Max
+[2024-03-03 17:41:53.441947] Se creó el gato Felix
+[2024-03-03 17:41:53.446945] Se creó el gato Gizmo
+[2024-03-03 17:41:53.450946] Se creó el gato Lucky
+[2024-03-03 17:41:53.454947] Se creó el gato Chloe
+[2024-03-03 17:41:53.458946] Se creó el gato Mittens
+[2024-03-03 17:41:53.462946] Se creó el gato Luna
+[2024-03-03 17:41:53.467946] Se creó el gato Whiskers
+[2024-03-03 17:41:53.471947] Se creó el gato Bella
+[2024-03-03 17:41:53.474948] Se creó el gato Oliver
+[2024-03-03 17:41:53.479947] Se creó el gato Simba
+[2024-03-03 17:41:53.483945] Se creó el gato Oreo
+[2024-03-03 17:41:53.487945] Se creó el gato Coco
+[2024-03-03 17:41:53.491948] Se creó el gato Oscar
+[2024-03-03 17:41:53.495947] Se creó el gato Charlie
+[2024-03-03 17:41:53.500945] Se creó el gato Nala
+[2024-03-03 17:41:53.504945] Se creó el gato Lily
+[2024-03-03 17:41:53.509946] Se creó el gato Lucy
+[2024-03-03 17:41:53.514945] Se creó el gato Leo
+[2024-03-03 17:41:53.519945] Se creó el gato Jasper
+[2024-03-03 17:41:53.523948] Se creó el gato Boots
+[2024-03-03 17:41:53.528948] Se creó el gato Peanut
+[2024-03-03 17:41:53.532945] Se creó el gato Sammy
+[2024-03-03 17:41:53.536945] Se creó el gato Simon
+[2024-03-03 17:41:53.542945] Se creó el gato Sammy
+[2024-03-03 17:41:53.547945] Se creó el gato Zoey
+[2024-03-03 17:41:53.552945] Se creó el gato Cleo
+[2024-03-03 17:41:53.556945] Se creó el gato Sammy
+[2024-03-03 17:41:53.562948] Se creó el gato Mimi
+[2024-03-03 17:41:53.566945] Se creó el gato Whiskers
+[2024-03-03 17:41:53.571945] Se creó el gato Tigger
+[2024-03-03 17:41:53.576946] Se creó el gato Socks
+[2024-03-03 17:41:53.581946] Se creó el gato Luna
+[2024-03-03 17:41:53.586949] Se creó el gato Rocky
+[2024-03-03 17:41:53.591946] Se creó el gato Rusty
+[2024-03-03 17:41:53.596949] Se creó el gato Tiger
+[2024-03-03 17:41:53.601945] Se creó el gato Sebastian
+[2024-03-03 17:41:53.605945] Se creó el gato Milo
+[2024-03-03 17:41:53.610946] Se creó el gato Callie
+[2024-03-03 17:41:53.616946] Se creó el gato Luna
+[2024-03-03 17:41:53.620945] Se creó el gato Dusty
+[2024-03-03 17:41:53.624945] Se creó el gato Angel
+[2024-03-03 17:41:53.629945] Se creó el gato Pepper
+[2024-03-03 17:41:53.634945] Se creó el gato Sophie
+[2024-03-03 17:41:53.638946] Se creó el gato Charlie
+[2024-03-03 17:41:53.643948] Se creó el gato Sammy
+[2024-03-03 17:41:53.648946] Se creó el gato Princess
+[2024-03-03 17:41:53.653945] Se creó el gato Bella
+[2024-03-03 17:41:53.658947] Se creó el gato Whiskers
+[2024-03-03 17:41:53.663945] Se creó el gato Oscar
+[2024-03-03 17:41:53.668946] Se creó el gato Mittens
+[2024-03-03 17:41:53.672945] Se creó el gato Simba
+[2024-03-03 17:41:53.676946] Se creó el gato Felix
+[2024-03-03 17:41:53.681949] Se creó el gato Max
+[2024-03-03 17:41:53.686945] Se creó el gato Luna
+[2024-03-03 17:41:53.690945] Se creó el gato Charlie
+[2024-03-03 17:41:53.695946] Se creó el gato Lucky
+[2024-03-03 17:41:53.701946] Se creó el gato Chloe
+[2024-03-03 17:41:53.705945] Se creó el gato Gizmo
+[2024-03-03 17:41:53.711945] Se creó el gato Tiger
+[2024-03-03 17:41:53.715945] Se creó el gato Oliver
+[2024-03-03 17:41:53.720948] Se creó el gato Lucy
+[2024-03-03 17:41:53.725946] Se creó el gato Shadow
+[2024-03-03 17:41:53.730946] Se creó el gato Nala
+[2024-03-03 17:41:53.734945] Se creó el gato Lily
+[2024-03-03 17:41:53.739947] Se creó el gato Leo
+[2024-03-03 17:41:53.743945] Se creó el gato Oscar
+[2024-03-03 17:41:53.748945] Se creó el gato Jasper
+[2024-03-03 17:41:53.753945] Se creó el gato Boots
+[2024-03-03 17:41:53.757945] Se creó el gato Peanut
+[2024-03-03 17:41:53.762945] Se creó el gato Sammy
+[2024-03-03 17:41:53.767946] Se creó el gato Simon
+[2024-03-03 17:41:53.772945] Se creó el gato Sammy
+[2024-03-03 17:41:53.776945] Se creó el gato Zoey
+[2024-03-03 17:41:53.782945] Se creó el gato Cleo
+[2024-03-03 17:41:53.786945] Se creó el gato Sammy
+[2024-03-03 17:41:53.791947] Se creó el gato Mimi
+[2024-03-03 17:41:53.796945] Se creó el gato Whiskers
+[2024-03-03 17:41:53.801948] Se creó el gato Tigger
+[2024-03-03 17:41:53.805945] Se creó el gato Socks
+[2024-03-03 17:41:53.810945] Se creó el gato Luna
+[2024-03-03 17:41:53.816947] Se creó el gato Rocky
+[2024-03-03 17:41:53.821946] Se creó el gato Rusty
+[2024-03-03 17:41:53.827946] Se creó el gato Tiger
+[2024-03-03 17:41:53.832949] Se creó el gato Sebastian
+[2024-03-03 17:41:53.838947] Se creó el gato Milo
+[2024-03-03 17:41:53.844946] Se creó el gato Callie
+[2024-03-03 17:41:53.849946] Se creó el gato Luna
+[2024-03-03 17:41:53.853948] Se creó el gato Dusty
+[2024-03-03 17:41:53.858947] Se creó el gato Angel
+[2024-03-03 17:41:53.865947] Se creó el gato Pepper
+[2024-03-03 17:41:53.882947] Se creó el gato Sophie
+[2024-03-03 17:41:53.888947] Se creó el gato Charlie
+[2024-03-03 17:41:53.895948] Se creó el gato Sammy
+[2024-03-03 17:41:53.901946] Le diste de comer a Luna, su energía antes: 1, ahora: 43
+[2024-03-03 17:41:53.907945] Jugaste con Tiger, su energía antes: 1, ahora: -19.0
+[2024-03-03 17:41:53.913946] El gato Tiger ha muerto debido a la falta de energía.
+[2024-03-03 17:41:53.913946] Tiger, Chales ya me morí
+[2024-03-03 17:41:53.913946] Tiger, -19.0, gato, muerto
+[2024-03-03 17:41:53.920948] Jugaste con Whiskers, su energía antes: 1, ahora: -9.0
+[2024-03-03 17:41:53.927946] El gato Whiskers ha muerto debido a la falta de energía.
+[2024-03-03 17:41:53.927946] Whiskers, Chales ya me morí
+[2024-03-03 17:41:53.927946] Whiskers, -9.0, gato, muerto
+[2024-03-03 17:41:53.934948] Le diste de comer a Oscar, su energía antes: 1, ahora: 43
+[2024-03-03 17:41:53.939948] Jugaste con Gizmo, su energía antes: 1, ahora: -9.0
+[2024-03-03 17:41:53.944946] El gato Gizmo ha muerto debido a la falta de energía.
+[2024-03-03 17:41:53.944946] Gizmo, Chales ya me morí
+[2024-03-03 17:41:53.944946] Gizmo, -9.0, gato, muerto
+[2024-03-03 17:41:53.951946] Le diste de comer a Sammy, su energía antes: 1, ahora: 43
+[2024-03-03 17:41:53.955945] Jugaste con Gizmo, su energía antes: 1, ahora: -9.0
+[2024-03-03 17:41:53.960945] El gato Gizmo ha muerto debido a la falta de energía.
+[2024-03-03 17:41:53.960945] Gizmo, Chales ya me morí
+[2024-03-03 17:41:53.960945] Gizmo, -9.0, gato, muerto
+[2024-03-03 17:41:53.966946] Jugaste con Princess, su energía antes: 1, ahora: -19.0
+[2024-03-03 17:41:53.970945] El gato Princess ha muerto debido a la falta de energía.
+[2024-03-03 17:41:53.970945] Princess, Chales ya me morí
+[2024-03-03 17:41:53.970945] Princess, -19.0, gato, muerto
+[2024-03-03 17:41:53.975947] Tiger, Muy tarde. Ya me morí.
+[2024-03-03 17:41:53.981945] Le diste de comer a Luna, su energía antes: 43, ahora: 75
+[2024-03-03 17:41:53.986946] Tiger, Muy tarde. Ya me morí.
+[2024-03-03 17:41:53.991948] Jugaste con Felix, su energía antes: 1, ahora: -19.0
+[2024-03-03 17:41:53.996945] El gato Felix ha muerto debido a la falta de energía.
+[2024-03-03 17:41:53.996945] Felix, Chales ya me morí
+[2024-03-03 17:41:53.996945] Felix, -19.0, gato, muerto
+[2024-03-03 17:41:54.002947] Gizmo, Muy tarde. Ya me morí.
+[2024-03-03 17:41:54.006945] Jugaste con Lucky, su energía antes: 1, ahora: -19.0
+[2024-03-03 17:41:54.012947] El gato Lucky ha muerto debido a la falta de energía.
+[2024-03-03 17:41:54.012947] Lucky, Chales ya me morí
+[2024-03-03 17:41:54.012947] Lucky, -19.0, gato, muerto
+[2024-03-03 17:41:54.017946] Le diste de comer a Luna, su energía antes: 75, ahora: 107
+[2024-03-03 17:41:54.022945] Jugaste con Princess, su energía antes: 1, ahora: -9.0
+[2024-03-03 17:41:54.027946] El gato Princess ha muerto debido a la falta de energía.
+[2024-03-03 17:41:54.027946] Princess, Chales ya me morí
+[2024-03-03 17:41:54.027946] Princess, -9.0, gato, muerto
+[2024-03-03 17:41:54.033948] Gizmo, Muy tarde. Ya me morí.
+[2024-03-03 17:41:54.038947] Jugaste con Lucky, su energía antes: 1, ahora: -19.0
+[2024-03-03 17:41:54.043946] El gato Lucky ha muerto debido a la falta de energía.
+[2024-03-03 17:41:54.043946] Lucky, Chales ya me morí
+[2024-03-03 17:41:54.043946] Lucky, -19.0, gato, muerto
+[2024-03-03 17:41:54.048946] Le diste de comer a Luna, su energía antes: 107, ahora: 149
+[2024-03-03 17:41:54.053944] Gizmo, Muy tarde. Ya me morí.
+[2024-03-03 17:41:54.059947] Lucky, Muy tarde. Ya me morí.
+[2024-03-03 17:41:54.064945] Jugaste con Tiger, su energía antes: 1, ahora: -19.0
+[2024-03-03 17:41:54.069946] El gato Tiger ha muerto debido a la falta de energía.
+[2024-03-03 17:41:54.069946] Tiger, Chales ya me morí
+[2024-03-03 17:41:54.069946] Tiger, -19.0, gato, muerto
+[2024-03-03 17:41:54.075948] Le diste de comer a Luna, su energía antes: 149, ahora: 191
+[2024-03-03 17:41:54.080946] Lucky, Muy tarde. Ya me morí.
+[2024-03-03 17:41:54.085948] Tiger, Muy tarde. Ya me morí.
+[2024-03-03 17:41:54.089945] Le diste de comer a Luna, su energía antes: 191, ahora: 233
+[2024-03-03 17:41:54.094947] Jugaste con Tiger, su energía antes: 1, ahora: -9.0
+[2024-03-03 17:41:54.099946] El gato Tiger ha muerto debido a la falta de energía.
+[2024-03-03 17:41:54.099946] Tiger, Chales ya me morí
+[2024-03-03 17:41:54.099946] Tiger, -9.0, gato, muerto
+[2024-03-03 17:41:54.104946] Le diste de comer a Luna, su energía antes: 233, ahora: 265
+[2024-03-03 17:41:54.108946] Gizmo, Muy tarde. Ya me morí.
+[2024-03-03 17:41:54.114947] Lucky, Muy tarde. Ya me morí.
+[2024-03-03 17:41:54.119946] Le diste de comer a Luna, su energía antes: 265, ahora: 297
+[2024-03-03 17:41:54.125947] Jugaste con Tiger, su energía antes: 1, ahora: -19.0
+[2024-03-03 17:41:54.130945] El gato Tiger ha muerto debido a la falta de energía.
+[2024-03-03 17:41:54.130945] Tiger, Chales ya me morí
+[2024-03-03 17:41:54.130945] Tiger, -19.0, gato, muerto
+[2024-03-03 17:41:54.135946] Gizmo, Muy tarde. Ya me morí.
+[2024-03-03 17:41:54.139945] Le diste de comer a Luna, su energía antes: 297, ahora: 329
+[2024-03-03 17:41:54.144947] Resumen de Princess:
+[2024-03-03 17:41:54.144947] Nombre: Princess, Energía: -19.0, Tipo: gato, Estado: muerto
+[2024-03-03 17:41:54.149947] Resumen de Tiger:
+[2024-03-03 17:41:54.149947] Nombre: Tiger, Energía: -19.0, Tipo: gato, Estado: muerto
+[2024-03-03 17:41:54.154945] Resumen de Sassy:
+[2024-03-03 17:41:54.154945] Nombre: Sassy, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.158946] Resumen de Shadow:
+[2024-03-03 17:41:54.158946] Nombre: Shadow, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.163945] Resumen de Max:
+[2024-03-03 17:41:54.163945] Nombre: Max, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.168945] Resumen de Felix:
+[2024-03-03 17:41:54.168945] Nombre: Felix, Energía: -19.0, Tipo: gato, Estado: muerto
+[2024-03-03 17:41:54.172945] Resumen de Gizmo:
+[2024-03-03 17:41:54.172945] Nombre: Gizmo, Energía: -9.0, Tipo: gato, Estado: muerto
+[2024-03-03 17:41:54.178945] Resumen de Lucky:
+[2024-03-03 17:41:54.178945] Nombre: Lucky, Energía: -19.0, Tipo: gato, Estado: muerto
+[2024-03-03 17:41:54.182945] Resumen de Chloe:
+[2024-03-03 17:41:54.182945] Nombre: Chloe, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.186945] Resumen de Mittens:
+[2024-03-03 17:41:54.186945] Nombre: Mittens, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.190949] Resumen de Luna:
+[2024-03-03 17:41:54.190949] Nombre: Luna, Energía: 329, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.194945] Resumen de Whiskers:
+[2024-03-03 17:41:54.194945] Nombre: Whiskers, Energía: -9.0, Tipo: gato, Estado: muerto
+[2024-03-03 17:41:54.199947] Resumen de Bella:
+[2024-03-03 17:41:54.199947] Nombre: Bella, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.203945] Resumen de Oliver:
+[2024-03-03 17:41:54.203945] Nombre: Oliver, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.208947] Resumen de Simba:
+[2024-03-03 17:41:54.208947] Nombre: Simba, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.212948] Resumen de Oreo:
+[2024-03-03 17:41:54.212948] Nombre: Oreo, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.217945] Resumen de Coco:
+[2024-03-03 17:41:54.217945] Nombre: Coco, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.221945] Resumen de Oscar:
+[2024-03-03 17:41:54.221945] Nombre: Oscar, Energía: 43, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.225946] Resumen de Charlie:
+[2024-03-03 17:41:54.225946] Nombre: Charlie, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.229946] Resumen de Nala:
+[2024-03-03 17:41:54.229946] Nombre: Nala, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.233945] Resumen de Lily:
+[2024-03-03 17:41:54.233945] Nombre: Lily, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.237945] Resumen de Lucy:
+[2024-03-03 17:41:54.237945] Nombre: Lucy, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.241945] Resumen de Leo:
+[2024-03-03 17:41:54.241945] Nombre: Leo, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.246945] Resumen de Jasper:
+[2024-03-03 17:41:54.246945] Nombre: Jasper, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.251946] Resumen de Boots:
+[2024-03-03 17:41:54.251946] Nombre: Boots, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.256946] Resumen de Peanut:
+[2024-03-03 17:41:54.256946] Nombre: Peanut, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.261947] Resumen de Sammy:
+[2024-03-03 17:41:54.261947] Nombre: Sammy, Energía: 43, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.266946] Resumen de Simon:
+[2024-03-03 17:41:54.266946] Nombre: Simon, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.271945] Resumen de Sammy:
+[2024-03-03 17:41:54.271945] Nombre: Sammy, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.276949] Resumen de Zoey:
+[2024-03-03 17:41:54.276949] Nombre: Zoey, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.281946] Resumen de Cleo:
+[2024-03-03 17:41:54.281946] Nombre: Cleo, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.286945] Resumen de Sammy:
+[2024-03-03 17:41:54.286945] Nombre: Sammy, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.290945] Resumen de Mimi:
+[2024-03-03 17:41:54.290945] Nombre: Mimi, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.295945] Resumen de Whiskers:
+[2024-03-03 17:41:54.295945] Nombre: Whiskers, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.299945] Resumen de Tigger:
+[2024-03-03 17:41:54.299945] Nombre: Tigger, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.303945] Resumen de Socks:
+[2024-03-03 17:41:54.303945] Nombre: Socks, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.307946] Resumen de Luna:
+[2024-03-03 17:41:54.307946] Nombre: Luna, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.311945] Resumen de Rocky:
+[2024-03-03 17:41:54.311945] Nombre: Rocky, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.315945] Resumen de Rusty:
+[2024-03-03 17:41:54.315945] Nombre: Rusty, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.319946] Resumen de Tiger:
+[2024-03-03 17:41:54.319946] Nombre: Tiger, Energía: -19.0, Tipo: gato, Estado: muerto
+[2024-03-03 17:41:54.323949] Resumen de Sebastian:
+[2024-03-03 17:41:54.323949] Nombre: Sebastian, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.328945] Resumen de Milo:
+[2024-03-03 17:41:54.328945] Nombre: Milo, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.332945] Resumen de Callie:
+[2024-03-03 17:41:54.332945] Nombre: Callie, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.336945] Resumen de Luna:
+[2024-03-03 17:41:54.336945] Nombre: Luna, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.341947] Resumen de Dusty:
+[2024-03-03 17:41:54.341947] Nombre: Dusty, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.345945] Resumen de Angel:
+[2024-03-03 17:41:54.345945] Nombre: Angel, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.349946] Resumen de Pepper:
+[2024-03-03 17:41:54.349946] Nombre: Pepper, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.353946] Resumen de Sophie:
+[2024-03-03 17:41:54.353946] Nombre: Sophie, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.357945] Resumen de Charlie:
+[2024-03-03 17:41:54.357945] Nombre: Charlie, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.361944] Resumen de Sammy:
+[2024-03-03 17:41:54.361944] Nombre: Sammy, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.365945] Resumen de Princess:
+[2024-03-03 17:41:54.365945] Nombre: Princess, Energía: -9.0, Tipo: gato, Estado: muerto
+[2024-03-03 17:41:54.370945] Resumen de Bella:
+[2024-03-03 17:41:54.370945] Nombre: Bella, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.374945] Resumen de Whiskers:
+[2024-03-03 17:41:54.374945] Nombre: Whiskers, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.378945] Resumen de Oscar:
+[2024-03-03 17:41:54.378945] Nombre: Oscar, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.382945] Resumen de Mittens:
+[2024-03-03 17:41:54.382945] Nombre: Mittens, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.386945] Resumen de Simba:
+[2024-03-03 17:41:54.386945] Nombre: Simba, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.390945] Resumen de Felix:
+[2024-03-03 17:41:54.390945] Nombre: Felix, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.394945] Resumen de Max:
+[2024-03-03 17:41:54.394945] Nombre: Max, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.398945] Resumen de Luna:
+[2024-03-03 17:41:54.398945] Nombre: Luna, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.402945] Resumen de Charlie:
+[2024-03-03 17:41:54.402945] Nombre: Charlie, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.405945] Resumen de Lucky:
+[2024-03-03 17:41:54.405945] Nombre: Lucky, Energía: -19.0, Tipo: gato, Estado: muerto
+[2024-03-03 17:41:54.410945] Resumen de Chloe:
+[2024-03-03 17:41:54.410945] Nombre: Chloe, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.414945] Resumen de Gizmo:
+[2024-03-03 17:41:54.414945] Nombre: Gizmo, Energía: -9.0, Tipo: gato, Estado: muerto
+[2024-03-03 17:41:54.418945] Resumen de Tiger:
+[2024-03-03 17:41:54.418945] Nombre: Tiger, Energía: -9.0, Tipo: gato, Estado: muerto
+[2024-03-03 17:41:54.422945] Resumen de Oliver:
+[2024-03-03 17:41:54.422945] Nombre: Oliver, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.426945] Resumen de Lucy:
+[2024-03-03 17:41:54.426945] Nombre: Lucy, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.430945] Resumen de Shadow:
+[2024-03-03 17:41:54.430945] Nombre: Shadow, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.434945] Resumen de Nala:
+[2024-03-03 17:41:54.434945] Nombre: Nala, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.438948] Resumen de Lily:
+[2024-03-03 17:41:54.438948] Nombre: Lily, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.442946] Resumen de Leo:
+[2024-03-03 17:41:54.442946] Nombre: Leo, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.446945] Resumen de Oscar:
+[2024-03-03 17:41:54.446945] Nombre: Oscar, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.451945] Resumen de Jasper:
+[2024-03-03 17:41:54.451945] Nombre: Jasper, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.455945] Resumen de Boots:
+[2024-03-03 17:41:54.455945] Nombre: Boots, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.459946] Resumen de Peanut:
+[2024-03-03 17:41:54.459946] Nombre: Peanut, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.463945] Resumen de Sammy:
+[2024-03-03 17:41:54.463945] Nombre: Sammy, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.467945] Resumen de Simon:
+[2024-03-03 17:41:54.467945] Nombre: Simon, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.471944] Resumen de Sammy:
+[2024-03-03 17:41:54.471944] Nombre: Sammy, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.475945] Resumen de Zoey:
+[2024-03-03 17:41:54.475945] Nombre: Zoey, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.479947] Resumen de Cleo:
+[2024-03-03 17:41:54.479947] Nombre: Cleo, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.483945] Resumen de Sammy:
+[2024-03-03 17:41:54.483945] Nombre: Sammy, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.487945] Resumen de Mimi:
+[2024-03-03 17:41:54.487945] Nombre: Mimi, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.491946] Resumen de Whiskers:
+[2024-03-03 17:41:54.491946] Nombre: Whiskers, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.495948] Resumen de Tigger:
+[2024-03-03 17:41:54.495948] Nombre: Tigger, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.499947] Resumen de Socks:
+[2024-03-03 17:41:54.499947] Nombre: Socks, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.503945] Resumen de Luna:
+[2024-03-03 17:41:54.503945] Nombre: Luna, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.507945] Resumen de Rocky:
+[2024-03-03 17:41:54.507945] Nombre: Rocky, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.511947] Resumen de Rusty:
+[2024-03-03 17:41:54.511947] Nombre: Rusty, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.515945] Resumen de Tiger:
+[2024-03-03 17:41:54.515945] Nombre: Tiger, Energía: -19.0, Tipo: gato, Estado: muerto
+[2024-03-03 17:41:54.519945] Resumen de Sebastian:
+[2024-03-03 17:41:54.519945] Nombre: Sebastian, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.523945] Resumen de Milo:
+[2024-03-03 17:41:54.523945] Nombre: Milo, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.527947] Resumen de Callie:
+[2024-03-03 17:41:54.527947] Nombre: Callie, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.531945] Resumen de Luna:
+[2024-03-03 17:41:54.531945] Nombre: Luna, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.535945] Resumen de Dusty:
+[2024-03-03 17:41:54.535945] Nombre: Dusty, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.540945] Resumen de Angel:
+[2024-03-03 17:41:54.540945] Nombre: Angel, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.544945] Resumen de Pepper:
+[2024-03-03 17:41:54.544945] Nombre: Pepper, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.548945] Resumen de Sophie:
+[2024-03-03 17:41:54.548945] Nombre: Sophie, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.552945] Resumen de Charlie:
+[2024-03-03 17:41:54.552945] Nombre: Charlie, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:54.556946] Resumen de Sammy:
+[2024-03-03 17:41:54.556946] Nombre: Sammy, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.119989] Lucky, Muy tarde. Ya me morí.
+[2024-03-03 17:41:59.120987] Le diste de comer a Luna, su energía antes: 329, ahora: 371
+[2024-03-03 17:41:59.125985] Jugaste con Whiskers, su energía antes: 1, ahora: -9.0
+[2024-03-03 17:41:59.130987] El gato Whiskers ha muerto debido a la falta de energía.
+[2024-03-03 17:41:59.130987] Whiskers, Chales ya me morí
+[2024-03-03 17:41:59.130987] Whiskers, -9.0, gato, muerto
+[2024-03-03 17:41:59.135987] Le diste de comer a Oscar, su energía antes: 43, ahora: 85
+[2024-03-03 17:41:59.141986] Le diste de comer a Sammy, su energía antes: 43, ahora: 85
+[2024-03-03 17:41:59.146985] Tiger, Muy tarde. Ya me morí.
+[2024-03-03 17:41:59.152990] Le diste de comer a Luna, su energía antes: 371, ahora: 403
+[2024-03-03 17:41:59.156985] Tiger, Muy tarde. Ya me morí.
+[2024-03-03 17:41:59.162985] Jugaste con Felix, su energía antes: 1, ahora: -19.0
+[2024-03-03 17:41:59.167985] El gato Felix ha muerto debido a la falta de energía.
+[2024-03-03 17:41:59.167985] Felix, Chales ya me morí
+[2024-03-03 17:41:59.167985] Felix, -19.0, gato, muerto
+[2024-03-03 17:41:59.172986] Gizmo, Muy tarde. Ya me morí.
+[2024-03-03 17:41:59.178989] Le diste de comer a Luna, su energía antes: 403, ahora: 435
+[2024-03-03 17:41:59.184985] Gizmo, Muy tarde. Ya me morí.
+[2024-03-03 17:41:59.189987] Le diste de comer a Luna, su energía antes: 435, ahora: 477
+[2024-03-03 17:41:59.194986] Gizmo, Muy tarde. Ya me morí.
+[2024-03-03 17:41:59.200988] Lucky, Muy tarde. Ya me morí.
+[2024-03-03 17:41:59.205988] Le diste de comer a Luna, su energía antes: 477, ahora: 519
+[2024-03-03 17:41:59.210986] Lucky, Muy tarde. Ya me morí.
+[2024-03-03 17:41:59.215987] Tiger, Muy tarde. Ya me morí.
+[2024-03-03 17:41:59.220985] Le diste de comer a Luna, su energía antes: 519, ahora: 561
+[2024-03-03 17:41:59.225988] Le diste de comer a Luna, su energía antes: 561, ahora: 593
+[2024-03-03 17:41:59.233985] Gizmo, Muy tarde. Ya me morí.
+[2024-03-03 17:41:59.241987] Lucky, Muy tarde. Ya me morí.
+[2024-03-03 17:41:59.250987] Le diste de comer a Luna, su energía antes: 593, ahora: 625
+[2024-03-03 17:41:59.257989] Gizmo, Muy tarde. Ya me morí.
+[2024-03-03 17:41:59.265990] Le diste de comer a Luna, su energía antes: 625, ahora: 657
+[2024-03-03 17:41:59.273987] Lucky, Muy tarde. Ya me morí.
+[2024-03-03 17:41:59.281986] Resumen de Princess:
+[2024-03-03 17:41:59.281986] Nombre: Princess, Energía: -19.0, Tipo: gato, Estado: muerto
+[2024-03-03 17:41:59.288988] Resumen de Tiger:
+[2024-03-03 17:41:59.288988] Nombre: Tiger, Energía: -19.0, Tipo: gato, Estado: muerto
+[2024-03-03 17:41:59.293985] Resumen de Sassy:
+[2024-03-03 17:41:59.293985] Nombre: Sassy, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.298985] Resumen de Shadow:
+[2024-03-03 17:41:59.298985] Nombre: Shadow, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.302985] Resumen de Max:
+[2024-03-03 17:41:59.302985] Nombre: Max, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.306985] Resumen de Felix:
+[2024-03-03 17:41:59.306985] Nombre: Felix, Energía: -19.0, Tipo: gato, Estado: muerto
+[2024-03-03 17:41:59.310985] Resumen de Gizmo:
+[2024-03-03 17:41:59.310985] Nombre: Gizmo, Energía: -9.0, Tipo: gato, Estado: muerto
+[2024-03-03 17:41:59.315986] Resumen de Lucky:
+[2024-03-03 17:41:59.315986] Nombre: Lucky, Energía: -19.0, Tipo: gato, Estado: muerto
+[2024-03-03 17:41:59.319985] Resumen de Chloe:
+[2024-03-03 17:41:59.319985] Nombre: Chloe, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.325985] Resumen de Mittens:
+[2024-03-03 17:41:59.325985] Nombre: Mittens, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.332989] Resumen de Luna:
+[2024-03-03 17:41:59.332989] Nombre: Luna, Energía: 657, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.337985] Resumen de Whiskers:
+[2024-03-03 17:41:59.337985] Nombre: Whiskers, Energía: -9.0, Tipo: gato, Estado: muerto
+[2024-03-03 17:41:59.344989] Resumen de Bella:
+[2024-03-03 17:41:59.344989] Nombre: Bella, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.352988] Resumen de Oliver:
+[2024-03-03 17:41:59.352988] Nombre: Oliver, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.359990] Resumen de Simba:
+[2024-03-03 17:41:59.359990] Nombre: Simba, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.366989] Resumen de Oreo:
+[2024-03-03 17:41:59.366989] Nombre: Oreo, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.373990] Resumen de Coco:
+[2024-03-03 17:41:59.373990] Nombre: Coco, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.378985] Resumen de Oscar:
+[2024-03-03 17:41:59.378985] Nombre: Oscar, Energía: 85, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.382985] Resumen de Charlie:
+[2024-03-03 17:41:59.382985] Nombre: Charlie, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.386985] Resumen de Nala:
+[2024-03-03 17:41:59.386985] Nombre: Nala, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.391989] Resumen de Lily:
+[2024-03-03 17:41:59.391989] Nombre: Lily, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.396985] Resumen de Lucy:
+[2024-03-03 17:41:59.396985] Nombre: Lucy, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.400985] Resumen de Leo:
+[2024-03-03 17:41:59.400985] Nombre: Leo, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.404985] Resumen de Jasper:
+[2024-03-03 17:41:59.404985] Nombre: Jasper, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.408985] Resumen de Boots:
+[2024-03-03 17:41:59.408985] Nombre: Boots, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.413985] Resumen de Peanut:
+[2024-03-03 17:41:59.413985] Nombre: Peanut, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.417985] Resumen de Sammy:
+[2024-03-03 17:41:59.417985] Nombre: Sammy, Energía: 85, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.421985] Resumen de Simon:
+[2024-03-03 17:41:59.421985] Nombre: Simon, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.425986] Resumen de Sammy:
+[2024-03-03 17:41:59.425986] Nombre: Sammy, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.429986] Resumen de Zoey:
+[2024-03-03 17:41:59.429986] Nombre: Zoey, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.435985] Resumen de Cleo:
+[2024-03-03 17:41:59.435985] Nombre: Cleo, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.439985] Resumen de Sammy:
+[2024-03-03 17:41:59.439985] Nombre: Sammy, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.444987] Resumen de Mimi:
+[2024-03-03 17:41:59.444987] Nombre: Mimi, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.451990] Resumen de Whiskers:
+[2024-03-03 17:41:59.451990] Nombre: Whiskers, Energía: -9.0, Tipo: gato, Estado: muerto
+[2024-03-03 17:41:59.455985] Resumen de Tigger:
+[2024-03-03 17:41:59.455985] Nombre: Tigger, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.459985] Resumen de Socks:
+[2024-03-03 17:41:59.459985] Nombre: Socks, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.463985] Resumen de Luna:
+[2024-03-03 17:41:59.463985] Nombre: Luna, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.467985] Resumen de Rocky:
+[2024-03-03 17:41:59.467985] Nombre: Rocky, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.470985] Resumen de Rusty:
+[2024-03-03 17:41:59.470985] Nombre: Rusty, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.475985] Resumen de Tiger:
+[2024-03-03 17:41:59.475985] Nombre: Tiger, Energía: -19.0, Tipo: gato, Estado: muerto
+[2024-03-03 17:41:59.479985] Resumen de Sebastian:
+[2024-03-03 17:41:59.479985] Nombre: Sebastian, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.483985] Resumen de Milo:
+[2024-03-03 17:41:59.483985] Nombre: Milo, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.487985] Resumen de Callie:
+[2024-03-03 17:41:59.487985] Nombre: Callie, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.491985] Resumen de Luna:
+[2024-03-03 17:41:59.491985] Nombre: Luna, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.498988] Resumen de Dusty:
+[2024-03-03 17:41:59.498988] Nombre: Dusty, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.504984] Resumen de Angel:
+[2024-03-03 17:41:59.504984] Nombre: Angel, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.510985] Resumen de Pepper:
+[2024-03-03 17:41:59.510985] Nombre: Pepper, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.517985] Resumen de Sophie:
+[2024-03-03 17:41:59.517985] Nombre: Sophie, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.524988] Resumen de Charlie:
+[2024-03-03 17:41:59.524988] Nombre: Charlie, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.530985] Resumen de Sammy:
+[2024-03-03 17:41:59.530985] Nombre: Sammy, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.538989] Resumen de Princess:
+[2024-03-03 17:41:59.538989] Nombre: Princess, Energía: -9.0, Tipo: gato, Estado: muerto
+[2024-03-03 17:41:59.545990] Resumen de Bella:
+[2024-03-03 17:41:59.545990] Nombre: Bella, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.550985] Resumen de Whiskers:
+[2024-03-03 17:41:59.550985] Nombre: Whiskers, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.556985] Resumen de Oscar:
+[2024-03-03 17:41:59.556985] Nombre: Oscar, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.560985] Resumen de Mittens:
+[2024-03-03 17:41:59.560985] Nombre: Mittens, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.565985] Resumen de Simba:
+[2024-03-03 17:41:59.565985] Nombre: Simba, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.569989] Resumen de Felix:
+[2024-03-03 17:41:59.569989] Nombre: Felix, Energía: -19.0, Tipo: gato, Estado: muerto
+[2024-03-03 17:41:59.573985] Resumen de Max:
+[2024-03-03 17:41:59.573985] Nombre: Max, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.580988] Resumen de Luna:
+[2024-03-03 17:41:59.580988] Nombre: Luna, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.586985] Resumen de Charlie:
+[2024-03-03 17:41:59.586985] Nombre: Charlie, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.591985] Resumen de Lucky:
+[2024-03-03 17:41:59.591985] Nombre: Lucky, Energía: -19.0, Tipo: gato, Estado: muerto
+[2024-03-03 17:41:59.598988] Resumen de Chloe:
+[2024-03-03 17:41:59.598988] Nombre: Chloe, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.602986] Resumen de Gizmo:
+[2024-03-03 17:41:59.602986] Nombre: Gizmo, Energía: -9.0, Tipo: gato, Estado: muerto
+[2024-03-03 17:41:59.608985] Resumen de Tiger:
+[2024-03-03 17:41:59.608985] Nombre: Tiger, Energía: -9.0, Tipo: gato, Estado: muerto
+[2024-03-03 17:41:59.615985] Resumen de Oliver:
+[2024-03-03 17:41:59.615985] Nombre: Oliver, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.621984] Resumen de Lucy:
+[2024-03-03 17:41:59.621984] Nombre: Lucy, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.625985] Resumen de Shadow:
+[2024-03-03 17:41:59.625985] Nombre: Shadow, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.629986] Resumen de Nala:
+[2024-03-03 17:41:59.629986] Nombre: Nala, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.633985] Resumen de Lily:
+[2024-03-03 17:41:59.633985] Nombre: Lily, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.637985] Resumen de Leo:
+[2024-03-03 17:41:59.637985] Nombre: Leo, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.641985] Resumen de Oscar:
+[2024-03-03 17:41:59.641985] Nombre: Oscar, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.645985] Resumen de Jasper:
+[2024-03-03 17:41:59.645985] Nombre: Jasper, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.652985] Resumen de Boots:
+[2024-03-03 17:41:59.652985] Nombre: Boots, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.656985] Resumen de Peanut:
+[2024-03-03 17:41:59.656985] Nombre: Peanut, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.660985] Resumen de Sammy:
+[2024-03-03 17:41:59.660985] Nombre: Sammy, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.664985] Resumen de Simon:
+[2024-03-03 17:41:59.664985] Nombre: Simon, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.668985] Resumen de Sammy:
+[2024-03-03 17:41:59.668985] Nombre: Sammy, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.675985] Resumen de Zoey:
+[2024-03-03 17:41:59.675985] Nombre: Zoey, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.681986] Resumen de Cleo:
+[2024-03-03 17:41:59.681986] Nombre: Cleo, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.687985] Resumen de Sammy:
+[2024-03-03 17:41:59.687985] Nombre: Sammy, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.693985] Resumen de Mimi:
+[2024-03-03 17:41:59.693985] Nombre: Mimi, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.700985] Resumen de Whiskers:
+[2024-03-03 17:41:59.700985] Nombre: Whiskers, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.704985] Resumen de Tigger:
+[2024-03-03 17:41:59.704985] Nombre: Tigger, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.708985] Resumen de Socks:
+[2024-03-03 17:41:59.708985] Nombre: Socks, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.711985] Resumen de Luna:
+[2024-03-03 17:41:59.711985] Nombre: Luna, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.715985] Resumen de Rocky:
+[2024-03-03 17:41:59.715985] Nombre: Rocky, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.720986] Resumen de Rusty:
+[2024-03-03 17:41:59.720986] Nombre: Rusty, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.725987] Resumen de Tiger:
+[2024-03-03 17:41:59.725987] Nombre: Tiger, Energía: -19.0, Tipo: gato, Estado: muerto
+[2024-03-03 17:41:59.731988] Resumen de Sebastian:
+[2024-03-03 17:41:59.731988] Nombre: Sebastian, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.736985] Resumen de Milo:
+[2024-03-03 17:41:59.736985] Nombre: Milo, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.741985] Resumen de Callie:
+[2024-03-03 17:41:59.741985] Nombre: Callie, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.747985] Resumen de Luna:
+[2024-03-03 17:41:59.747985] Nombre: Luna, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.754989] Resumen de Dusty:
+[2024-03-03 17:41:59.754989] Nombre: Dusty, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.759986] Resumen de Angel:
+[2024-03-03 17:41:59.759986] Nombre: Angel, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.769016] Resumen de Pepper:
+[2024-03-03 17:41:59.769016] Nombre: Pepper, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.775987] Resumen de Sophie:
+[2024-03-03 17:41:59.775987] Nombre: Sophie, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.784987] Resumen de Charlie:
+[2024-03-03 17:41:59.784987] Nombre: Charlie, Energía: 1, Tipo: gato, Estado: vivo
+[2024-03-03 17:41:59.792989] Resumen de Sammy:
+[2024-03-03 17:41:59.792989] Nombre: Sammy, Energía: 1, Tipo: gato, Estado: vivo
