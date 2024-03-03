@@ -23,6 +23,7 @@ class MascotaFinal:
         self.tipo = tipo
         self.estado = estado
 # Función para cargar mascotas desde un archivo
+
 def cargar_mascotas_desde_archivo():
     root = tk.Tk()
     root.withdraw() # Ocultar la ventana principal 
@@ -55,17 +56,22 @@ def cargar_mascotas_desde_archivo():
         elif comando == "Dar_de_Comer":
             nombre_gato, peso_ratón = parametros.split(',')
             for gato in gatos:
-                if gato.nombre == nombre_gato and gato.estado != "muerto":
-                    energia_antes = gato.energia
-                    gato.energia += 12 + int(peso_ratón)
-                    imprimir_mensajes_acciones(gato, "Dar_de_Comer", energia_antes, gato.energia, nombre_archivo_result)
+                if gato.nombre == nombre_gato:
+                    if gato.estado == "muerto":
+                        now = datetime.datetime.now()
+                        imprimir_mensajes_acciones(gato, "Dar_de_Comer", 0, 0, nombre_archivo_result)  # Cambio aquí
+                        
+                    else:
+                        energia_antes = gato.energia
+                        gato.energia += 12 + int(peso_ratón)
+                        imprimir_mensajes_acciones(gato, "Dar_de_Comer", energia_antes, gato.energia, nombre_archivo_result)
                     break  # Salir del bucle una vez que se encuentra la mascota
         elif comando == "Jugar":
             nombre_gato, tiempo = parametros.split(',')
             for gato in gatos:
                 if gato.nombre == nombre_gato and gato.estado != "muerto":
                     energia_antes = gato.energia
-                    gato.energia -= int(tiempo) // 2
+                    gato.energia -= int(tiempo) * 0.1
                     imprimir_mensajes_acciones(gato, "Jugar", energia_antes, gato.energia, nombre_archivo_result)
                     if gato.energia <= 0:
                         gato.estado = "muerto"
@@ -80,6 +86,9 @@ def cargar_mascotas_desde_archivo():
             for gato in gatos:
                 print(gato)
     return [MascotaFinal(gato.nombre, gato.energia, gato.tipo, gato.estado) for gato in gatos]
+
+
+
 
 # Función para generar el gráfico PNG
 def generar_grafico(mascotas_finales):
@@ -110,23 +119,34 @@ def imprimir_mensajes_acciones(gato, accion, energia_antes, energia_despues, out
         if accion == "Crear_Gato":
             file.write(f"[{now}] Se creó el gato {gato.nombre}\n")
         elif accion == "Dar_de_Comer":
-            file.write(f"[{now}] Le diste de comer a {gato.nombre}, su energía antes: {energia_antes}, ahora: {energia_despues}\n")
+            if gato.estado == "muerto":
+                file.write(f"[{now}] {gato.nombre}, Muy tarde. Ya me morí.\n")
+            else:
+                file.write(f"[{now}] Le diste de comer a {gato.nombre}, su energía antes: {energia_antes}, ahora: {energia_despues}\n")
         elif accion == "Jugar":
             file.write(f"[{now}] Jugaste con {gato.nombre}, su energía antes: {energia_antes}, ahora: {energia_despues}\n")
         elif accion == "Muerte":
             file.write(f"[{now}] El gato {gato.nombre} ha muerto debido a la falta de energía.\n")
-            file.write("[{}] Chales ya me morí\n".format(now))
-            file.write(f"{gato.nombre}, {energia_despues}, {gato.tipo}, {gato.estado}\n")
+            file.write(f"[{now}] {gato.nombre}, Chales ya me morí\n")
+            file.write(f"[{now}] {gato.nombre}, {energia_despues}, {gato.tipo}, {gato.estado}\n")
+
     if accion == "Crear_Gato":
         print(f"[{now}] Se creó el gato {gato.nombre}")
     elif accion == "Dar_de_Comer":
-        print(f"[{now}] Le diste de comer a {gato.nombre}, su energía: antes: {energia_antes}, ahora: {energia_despues}")
+        if gato.estado == "muerto":
+            print( f"[{now}] {gato.nombre}, Muy tarde. Ya me morí.")
+        else:
+            print(f"[{now}] Le diste de comer a {gato.nombre}, su energía: antes: {energia_antes}, ahora: {energia_despues}")
     elif accion == "Jugar":
         print(f"[{now}] Jugaste con {gato.nombre}, su energía: antes: {energia_antes}, ahora: {energia_despues}")
     elif accion == "Muerte":
         print(f"[{now}] El gato {gato.nombre} ha muerto debido a la falta de energía.")
-        print("[{}] Chales ya me morí".format(now))
-        print(f"{gato.nombre}, {energia_despues}, {gato.tipo}, {gato.estado}")
+        print(f"[{now}] {gato.nombre}, Chales ya me morí")
+        print(f"[{now}] {gato.nombre}, {energia_despues}, {gato.tipo}, {gato.estado}")
+
+
+
+
 # Función para el menú principal
 def menu_principal():
     print("BIENVENIDO AL PET MANAGER")
