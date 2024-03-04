@@ -21,6 +21,7 @@ Con esta aplicación, podrás realizar diversas acciones para cuidar a tus masco
 
 ## Flujo del programa
 
+
 * se muestra la información de bienvenida ademas de la información del estudiante
 ![Interfaz inicial](https://i.ibb.co/VxL5WYv/imagen-2024-03-04-011353020.png)
 
